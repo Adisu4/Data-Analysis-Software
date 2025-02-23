@@ -31,7 +31,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Adisu4/Data-Analysis-Software.git
 Install dependencies:
 
 bash
